@@ -2,3 +2,11 @@
   width: 600px;
   margin: 40px auto;
 }
+
+.container > p::first-letter {
+  font-size: 3em;
+}
+
+.paragraph:hover {
+  background-color: var(--lavender);
+} /* from solutions: can't tell this should be here from screenshot alone*/
