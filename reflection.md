@@ -14,6 +14,16 @@ The CSS exercises were helpful to see in real time how the different css attribu
 
 ## Flexbox
 
+The flexbox exercises were helpful to get practice with flexbox while seeing how the css changes affected the page in real time. I thought that most of the exercises were helpful, and the ones that required changing flow direction taught me something I did not understand well from class. I was mostly able to complete the exercises without the solutions. However, I did need to look for pixel heights on container 5 and for flow help on container 4. One thing I wish was explained better was the difference, if any, between using flex-flow and both flex-direction and flex-wrap.
+
+## CSS-Grid
+
+The CSS grid exercises were helpful to visually see how changes in the grid and the grid elements changed their layout. I thought that the grids 3 and 4 were especially helpful as I got experience changing the span of elements inside the grid. I was largely able to do the exercises on my own, but I did refer to the solutions for spacing and some exact divisions of fractional units as it was hard to tell from the screenshots. One additional concept that I think could have been covered is how reorder items in the grid like was done in the flexbox exercises.
+
+## Bootstrap
+
+The Bootstrap exercises were helpful in showing how to use this framework to easily do more complicated tasks like responsive formatting and pop ups. I thought that exercise 3 where we had to make a dynamic grid based on screen size was especially helpful as it was a new way to solve what seems like a very common problem. While the code examples in the slide gave a good starting point for most of the exercises, I struggled to fully complete these exercises without the solutions as it felt like there were simply Bootstrap classes used for formatting that I was not able to quickly find. One thing I wish had been explained better is why the Bootstrap grid is divided into 12 and the effects of not using a sum of 12 units.
+
 ## Questions From Canvas (For Reference Only)
 
 Once you complete the lab exercises in one section (e.g. 01-HTML), you will
