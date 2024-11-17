@@ -24,6 +24,10 @@ The CSS grid exercises were helpful to visually see how changes in the grid and 
 
 The Bootstrap exercises were helpful in showing how to use this framework to easily do more complicated tasks like responsive formatting and pop ups. I thought that exercise 3 where we had to make a dynamic grid based on screen size was especially helpful as it was a new way to solve what seems like a very common problem. While the code examples in the slide gave a good starting point for most of the exercises, I struggled to fully complete these exercises without the solutions as it felt like there were simply Bootstrap classes used for formatting that I was not able to quickly find. One thing I wish had been explained better is why the Bootstrap grid is divided into 12 and the effects of not using a sum of 12 units.
 
+## Javascript
+
+The JavaScript exercises were an important way to help practice both parts of Javascript that were new to me and review for me. One exercise I thought was particularly helpful was the DOM exercise as I have never created elements in vanilla JS, which seems like an important skill to have. I was largely able to complete these without the solutions. However, the fetch exercise gave me trouble with looping through the fetched data and I had to see how the solutions processed the fetched data. One thing I wish had been explained better, is the reduce function as I needed to turn to online resources to better understand how the reduce problem could be solved.
+
 ## Questions From Canvas (For Reference Only)
 
 Once you complete the lab exercises in one section (e.g. 01-HTML), you will
